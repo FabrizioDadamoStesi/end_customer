@@ -25,6 +25,6 @@
         'reports/sale_order.xml'
     ],
 
-    'application': True,
+    'application': False,
     'installable': True,
 }
